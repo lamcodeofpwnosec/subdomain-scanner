@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Subdomain Scanner using crt.sh API with Advanced Features
-# Author: [Your Name]
-# Date: [Date]
+# Author: lamcodeofpwnosec
+# Date: 23 Oct 2024
 
 # Fungsi untuk menampilkan banner
 banner() {
