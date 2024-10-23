@@ -93,6 +93,8 @@ Once the scan is complete, you will see a summary like this:
 [+] 3 subdomain aktif dan 2 subdomain tidak aktif.
 [+] Pemindaian selesai dalam waktu 8 detik.
 ```
+[![asciicast](https://asciinema.org/a/683023.svg)](https://asciinema.org/a/683023)
+
 ## Conclusion
 **With these steps, you can easily:**
  * Install dependencies and run scripts.
