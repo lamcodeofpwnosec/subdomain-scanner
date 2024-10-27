@@ -1,2 +1,2 @@
-exampleprivate.com
-exampleprogram.com
+domainname.com
+domainprogram.com
